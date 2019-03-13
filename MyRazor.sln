@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyRazor", "MyRazor\MyRazor.csproj", "{56C27859-C4C2-4AEA-B89D-2F83D5099001}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyVisualStudio", "..\MyVisualStudio\MyVisualStudio\MyVisualStudio.csproj", "{A672F3C7-799A-4C76-AC8E-28CE23C74A53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56C27859-C4C2-4AEA-B89D-2F83D5099001}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C27859-C4C2-4AEA-B89D-2F83D5099001}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C27859-C4C2-4AEA-B89D-2F83D5099001}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C27859-C4C2-4AEA-B89D-2F83D5099001}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A672F3C7-799A-4C76-AC8E-28CE23C74A53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A672F3C7-799A-4C76-AC8E-28CE23C74A53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A672F3C7-799A-4C76-AC8E-28CE23C74A53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A672F3C7-799A-4C76-AC8E-28CE23C74A53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C137BE2-CF49-4F93-91E5-D2342D7FB491}
+	EndGlobalSection
+EndGlobal

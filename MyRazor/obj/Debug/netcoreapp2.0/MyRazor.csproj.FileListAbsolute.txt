@@ -1,0 +1,11 @@
+c:\users\tochi\source\repos\MyRazor\MyRazor\obj\Debug\netcoreapp2.0\MyRazor.csprojResolveAssemblyReference.cache
+c:\users\tochi\source\repos\MyRazor\MyRazor\obj\Debug\netcoreapp2.0\MyRazor.csproj.CoreCompileInputs.cache
+c:\users\tochi\source\repos\MyRazor\MyRazor\obj\Debug\netcoreapp2.0\MyRazor.AssemblyInfoInputs.cache
+c:\users\tochi\source\repos\MyRazor\MyRazor\obj\Debug\netcoreapp2.0\MyRazor.AssemblyInfo.cs
+c:\users\tochi\source\repos\MyRazor\MyRazor\bin\Debug\netcoreapp2.0\MyRazor.deps.json
+c:\users\tochi\source\repos\MyRazor\MyRazor\bin\Debug\netcoreapp2.0\MyRazor.runtimeconfig.json
+c:\users\tochi\source\repos\MyRazor\MyRazor\bin\Debug\netcoreapp2.0\MyRazor.runtimeconfig.dev.json
+c:\users\tochi\source\repos\MyRazor\MyRazor\bin\Debug\netcoreapp2.0\MyRazor.dll
+c:\users\tochi\source\repos\MyRazor\MyRazor\bin\Debug\netcoreapp2.0\MyRazor.pdb
+c:\users\tochi\source\repos\MyRazor\MyRazor\obj\Debug\netcoreapp2.0\MyRazor.dll
+c:\users\tochi\source\repos\MyRazor\MyRazor\obj\Debug\netcoreapp2.0\MyRazor.pdb
